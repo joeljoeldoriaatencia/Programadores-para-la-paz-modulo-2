@@ -1,0 +1,8 @@
+Las herramientas tecnologicas pueden resolver problemas de comunidades enteras, que solo las personas que viven esa problematica sabe que existe.
+Cada comunidad tiene problemas sociales, economicos, politicos y geograficos diferentes.
+Herramientas como Node.JS permiten el uso gratuito y abierto de la tecnología a personas que probablemente no cuenten con recursos para herramientas pagas.
+Al mismo tiempo fomentan la colaboración grupal de las personas y la independencia de grandes empresas.
+Para nadie es un secreto que con el modelo capitalista se le brinda prioridad a lo que más venda.
+Esto quiere decir que problematicas que afectan a una población pequeña muchas veces serán ignoradas al no considerarse rentables.
+herramientas como Node.JS permiten la creación de soluciones tecnologicas por y para comunidades.
+Generando independencia y comocimiento en pro de la población.
