@@ -1,0 +1,8 @@
+Ruta 1 - http://localhost:3000
+Se observa el serviridor funcionando
+
+Ruta 2 - http://localhost:3000/saludo
+Da un mensaje de bienvenida con esta URL
+
+Ruta 3 - http://localhost:3000/mensaje/joel
+Se obtiene un saludo personalizado dependiendo de que se escriba en la URL
